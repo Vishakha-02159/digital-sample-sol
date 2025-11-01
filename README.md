@@ -33,4 +33,5 @@ Contract Address:
 Transaction Hash:
 0xd9d95C539C1EE794ee9Dac00dD510d9932907A50
 
-Transaction Screenshot:
+Transaction Screenshot:<img width="1740" height="698" alt="image" src="https://github.com/user-attachments/assets/d9cbfbbb-db5a-4229-83d5-9512a756c4b5" />
+
